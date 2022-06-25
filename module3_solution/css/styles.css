@@ -1,0 +1,24 @@
+body {
+	font-size: 16px;
+	color:  black;
+	font-family: "Oxygen", sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+	height: 70px;
+}
+
+.navbar-brand h1 {
+	font-weight: bold;
+	color: black;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.navbar-header a:hover, .navbar-header a:focus {
+	text-decoration: none;
+}
